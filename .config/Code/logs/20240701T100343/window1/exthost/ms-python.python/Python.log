@@ -1,0 +1,15 @@
+2024-07-01 10:03:48.458 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-01 10:03:48.458 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-01 10:03:48.458 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-01 10:03:48.458 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-01 10:03:48.458 [info] Experiment 'pythonTestAdapter' is active
+2024-07-01 10:03:48.458 [info] Default formatter is set to null for workspace /home/sciencerz/.config/neofetch
+2024-07-01 10:03:48.458 [info] Python interpreter path: /bin/python3
+2024-07-01 10:03:48.468 [info] > pyenv which python
+2024-07-01 10:03:48.468 [info] cwd: .
+2024-07-01 10:03:49.702 [info] Starting Pylance language server.
+2024-07-01 10:15:32.215 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 10:29:44.113 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 10:29:59.741 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 10:30:09.722 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 10:30:24.623 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py

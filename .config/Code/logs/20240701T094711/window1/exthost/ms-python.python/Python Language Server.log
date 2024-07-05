@@ -1,0 +1,18 @@
+2024-07-01 09:47:27.455 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-01 09:47:27.890 [info] [Info  - 9:47:27 AM] (640227) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-01 09:47:27.890 [info] [Info  - 9:47:27 AM] (640227) Server root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-01 09:47:27.890 [info] [Info  - 9:47:27 AM] (640227) Starting service instance "neofetch"
+2024-07-01 09:47:27.907 [info] Auto-Indent enabled
+2024-07-01 09:47:27.921 [info] Auto-Indent enabled
+2024-07-01 09:47:27.922 [info] [Info  - 9:47:27 AM] (640227) Setting pythonPath for service "neofetch": "/bin/python3"
+2024-07-01 09:47:27.922 [info] [Info  - 9:47:27 AM] (640227) Setting environmentName for service "neofetch": "3.12.3 (global)"
+2024-07-01 09:47:27.950 [info] [Info  - 9:47:27 AM] (640227) Assuming Python version 3.12.3.final.0
+2024-07-01 09:47:28.074 [info] [Info  - 9:47:28 AM] (640227) Found 1 source file
+2024-07-01 09:47:28.076 [info] Auto-Indent enabled
+2024-07-01 09:47:28.336 [info] [Info  - 9:47:28 AM] (640227) Background analysis(1) root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-01 09:47:28.338 [info] [Info  - 9:47:28 AM] (640227) Background analysis(1) started
+2024-07-01 09:47:28.556 [info] [Info  - 9:47:28 AM] (640227) Indexer background runner(2) root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-01 09:47:28.556 [info] [Info  - 9:47:28 AM] (640227) Indexing(2) started
+2024-07-01 09:47:28.838 [info] [Info  - 9:47:28 AM] (640227) scanned(2) 116 files over 1 exec env
+2024-07-01 09:47:29.454 [info] [Info  - 9:47:29 AM] (640227) indexed(2) 69 files over 1 exec env
+2024-07-01 09:47:29.484 [info] [Info  - 9:47:29 AM] (640227) Indexing finished(2).

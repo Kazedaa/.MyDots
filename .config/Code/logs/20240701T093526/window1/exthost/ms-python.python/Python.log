@@ -1,0 +1,39 @@
+2024-07-01 09:35:45.277 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-01 09:35:45.277 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-01 09:35:45.277 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-01 09:35:45.277 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-01 09:35:45.277 [info] Experiment 'pythonTestAdapter' is active
+2024-07-01 09:35:45.277 [info] Default formatter is set to null for workspace /home/sciencerz/.config
+2024-07-01 09:35:45.277 [info] Starting Environment refresh
+2024-07-01 09:35:45.277 [info] > hatch env show --json
+2024-07-01 09:35:45.277 [info] cwd: .
+2024-07-01 09:35:45.277 [info] Python interpreter path: /bin/python3
+2024-07-01 09:35:45.277 [info] Starting Environment refresh
+2024-07-01 09:35:45.295 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py
+2024-07-01 09:35:45.304 [info] Environments refresh paths discovered: 224 milliseconds
+2024-07-01 09:35:45.304 [info] Environments refresh paths discovered: 27 milliseconds
+2024-07-01 09:35:45.326 [info] Environments refresh finished (event): 246 milliseconds
+2024-07-01 09:35:45.326 [info] Environments refresh finished (event): 49 milliseconds
+2024-07-01 09:35:45.327 [info] Environment refresh took 247 milliseconds
+2024-07-01 09:35:45.327 [info] Environment refresh took 50 milliseconds
+2024-07-01 09:35:45.332 [info] > pyenv which python
+2024-07-01 09:35:45.332 [info] cwd: .
+2024-07-01 09:35:46.285 [info] Starting Pylance language server.
+2024-07-01 09:36:53.778 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:36:57.616 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:37:51.926 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:37:56.127 [info] CreateEnv Trigger - Skipping for /home/sciencerz/.config/neofetch.py
+2024-07-01 09:37:56.206 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch.py
+2024-07-01 09:38:20.952 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:38:24.174 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch.py
+2024-07-01 09:38:43.154 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:38:46.168 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch.py
+2024-07-01 09:39:34.310 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:41:32.179 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:41:39.606 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:41:42.334 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch.py
+2024-07-01 09:41:52.024 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:41:54.307 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch.py
+2024-07-01 09:42:15.528 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py
+2024-07-01 09:42:18.720 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch.py
+2024-07-01 09:44:22.920 [info] Discover tests for workspace name: .config - uri: /home/sciencerz/.config/neofetch.py

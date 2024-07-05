@@ -1,0 +1,17 @@
+2024-07-01 11:55:08.248 [info] Extension host with pid 64660 started
+2024-07-01 11:55:08.248 [info] Skipping acquiring lock for /home/sciencerz/.config/Code/User/workspaceStorage/4cf588af66fd5361cb86290b20349131.
+2024-07-01 11:55:08.286 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-01 11:55:08.293 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-07-01 11:55:08.497 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-07-01 11:55:08.517 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-07-01 11:55:08.729 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-01 11:55:08.732 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-07-01 11:55:08.826 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-01 11:55:08.847 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-01 11:55:08.892 [info] Eager extensions activated
+2024-07-01 11:55:08.915 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 11:55:08.917 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 11:55:08.924 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 12:08:28.455 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-01 13:19:19.266 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-01 13:19:19.281 [info] Extension host with pid 64660 exiting with code 0

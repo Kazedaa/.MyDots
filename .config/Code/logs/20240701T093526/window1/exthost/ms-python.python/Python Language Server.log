@@ -1,0 +1,36 @@
+2024-07-01 09:35:45.860 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-01 09:35:46.277 [info] [Info  - 9:35:46 AM] (629172) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-01 09:35:46.277 [info] [Info  - 9:35:46 AM] (629172) Server root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-01 09:35:46.277 [info] [Info  - 9:35:46 AM] (629172) Starting service instance ".config"
+2024-07-01 09:35:46.289 [info] Auto-Indent enabled
+2024-07-01 09:35:46.296 [info] Auto-Indent enabled
+2024-07-01 09:35:46.297 [info] [Info  - 9:35:46 AM] (629172) Setting pythonPath for service ".config": "/bin/python3"
+2024-07-01 09:35:46.297 [info] [Info  - 9:35:46 AM] (629172) Setting environmentName for service ".config": "3.12.3 (global)"
+2024-07-01 09:35:46.318 [info] [Info  - 9:35:46 AM] (629172) Assuming Python version 3.12.3.final.0
+2024-07-01 09:35:46.473 [info] [Info  - 9:35:46 AM] (629172) Found 4 source files
+2024-07-01 09:35:46.475 [info] Auto-Indent enabled
+2024-07-01 09:35:46.682 [info] [Info  - 9:35:46 AM] (629172) Background analysis(1) root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-01 09:35:46.685 [info] [Info  - 9:35:46 AM] (629172) Background analysis(1) started
+2024-07-01 09:35:46.982 [info] [Info  - 9:35:46 AM] (629172) Indexer background runner(2) root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-01 09:35:46.983 [info] [Info  - 9:35:46 AM] (629172) Indexing(2) started
+2024-07-01 09:35:47.264 [info] [Info  - 9:35:47 AM] (629172) scanned(2) 116 files over 1 exec env
+2024-07-01 09:35:47.960 [info] [Info  - 9:35:47 AM] (629172) indexed(2) 69 files over 1 exec env
+2024-07-01 09:35:47.987 [info] [Info  - 9:35:47 AM] (629172) Indexing finished(2).
+2024-07-01 09:35:48.094 [info] [Info  - 9:35:48 AM] (629172) Starting service instance "<default>"
+2024-07-01 09:35:48.111 [info] Auto-Indent enabled
+2024-07-01 09:35:48.112 [info] [Info  - 9:35:48 AM] (629172) Setting pythonPath for service "<default>": "/bin/python3"
+2024-07-01 09:35:48.112 [info] [Info  - 9:35:48 AM] (629172) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-07-01 09:35:48.135 [info] [Info  - 9:35:48 AM] (629172) Assuming Python version 3.12.3.final.0
+2024-07-01 09:35:48.308 [info] [Info  - 9:35:48 AM] (629172) No source files found.
+2024-07-01 09:35:48.503 [info] [Info  - 9:35:48 AM] (629172) Background analysis(3) root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-01 09:35:48.505 [info] [Info  - 9:35:48 AM] (629172) Background analysis(3) started
+2024-07-01 09:36:54.101 [info] [Info  - 9:36:54 AM] (629172) Found 5 source files
+2024-07-01 09:37:52.146 [info] [Info  - 9:37:52 AM] (629172) Found 6 source files
+2024-07-01 09:38:21.420 [info] [Info  - 9:38:21 AM] (629172) Found 7 source files
+2024-07-01 09:38:43.372 [info] [Info  - 9:38:43 AM] (629172) Found 8 source files
+2024-07-01 09:39:34.542 [info] [Info  - 9:39:34 AM] (629172) Found 9 source files
+2024-07-01 09:41:32.402 [info] [Info  - 9:41:32 AM] (629172) Found 10 source files
+2024-07-01 09:41:52.315 [info] [Info  - 9:41:52 AM] (629172) Found 11 source files
+2024-07-01 09:42:15.742 [info] [Info  - 9:42:15 AM] (629172) Found 12 source files
+2024-07-01 09:44:23.135 [info] [Info  - 9:44:23 AM] (629172) Found 13 source files
+2024-07-01 09:46:31.933 [info] [Info  - 9:46:31 AM] (629172) Found 14 source files

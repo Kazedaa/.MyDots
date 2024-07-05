@@ -1,0 +1,26 @@
+2024-07-01 14:12:07.734 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-01 14:12:08.174 [info] [Info  - 2:12:08 PM] (190226) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-01 14:12:08.175 [info] [Info  - 2:12:08 PM] (190226) Server root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-01 14:12:08.175 [info] [Info  - 2:12:08 PM] (190226) Starting service instance "neofetch"
+2024-07-01 14:12:08.191 [info] Auto-Indent enabled
+2024-07-01 14:12:08.205 [info] Auto-Indent enabled
+2024-07-01 14:12:08.206 [info] [Info  - 2:12:08 PM] (190226) Setting pythonPath for service "neofetch": "/bin/python3"
+2024-07-01 14:12:08.207 [info] [Info  - 2:12:08 PM] (190226) Setting environmentName for service "neofetch": "3.12.3 (global)"
+2024-07-01 14:12:08.243 [info] [Info  - 2:12:08 PM] (190226) Assuming Python version 3.12.3.final.0
+2024-07-01 14:12:08.380 [info] [Info  - 2:12:08 PM] (190226) Found 1 source file
+2024-07-01 14:12:08.382 [info] Auto-Indent enabled
+2024-07-01 14:12:08.650 [info] [Info  - 2:12:08 PM] (190226) Background analysis(1) root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-01 14:12:08.652 [info] [Info  - 2:12:08 PM] (190226) Background analysis(1) started
+2024-07-01 14:12:08.902 [info] [Info  - 2:12:08 PM] (190226) Indexer background runner(2) root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-01 14:12:08.902 [info] [Info  - 2:12:08 PM] (190226) Indexing(2) started
+2024-07-01 14:12:09.288 [info] [Info  - 2:12:09 PM] (190226) scanned(2) 116 files over 1 exec env
+2024-07-01 14:12:09.476 [info] [Info  - 2:12:09 PM] (190226) indexed(2) 69 files over 1 exec env
+2024-07-01 14:12:09.504 [info] [Info  - 2:12:09 PM] (190226) Indexing finished(2).
+2024-07-01 14:45:22.682 [info] [Info  - 2:45:22 PM] (190226) Starting service instance "<default>"
+2024-07-01 14:45:22.709 [info] Auto-Indent enabled
+2024-07-01 14:45:22.709 [info] [Info  - 2:45:22 PM] (190226) Setting pythonPath for service "<default>": "/bin/python3"
+2024-07-01 14:45:22.710 [info] [Info  - 2:45:22 PM] (190226) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-07-01 14:45:22.736 [info] [Info  - 2:45:22 PM] (190226) Assuming Python version 3.12.3.final.0
+2024-07-01 14:45:22.932 [info] [Info  - 2:45:22 PM] (190226) No source files found.
+2024-07-01 14:45:23.090 [info] [Info  - 2:45:23 PM] (190226) Background analysis(3) root directory: file:///home/sciencerz/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-01 14:45:23.092 [info] [Info  - 2:45:23 PM] (190226) Background analysis(3) started

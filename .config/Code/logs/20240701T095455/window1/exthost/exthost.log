@@ -1,0 +1,16 @@
+2024-07-01 09:54:56.749 [info] Extension host with pid 649132 started
+2024-07-01 09:54:56.749 [info] Skipping acquiring lock for /home/sciencerz/.config/Code/User/workspaceStorage/4cf588af66fd5361cb86290b20349131.
+2024-07-01 09:54:56.902 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-01 09:54:56.907 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-07-01 09:54:57.079 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-07-01 09:54:57.110 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-07-01 09:54:57.328 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-01 09:54:57.330 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-07-01 09:54:57.410 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-01 09:54:57.431 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-01 09:54:57.470 [info] Eager extensions activated
+2024-07-01 09:54:57.515 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 09:54:57.516 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 09:54:57.522 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 10:03:33.777 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-01 10:03:33.790 [info] Extension host with pid 649132 exiting with code 0

@@ -1,0 +1,46 @@
+2024-07-01 11:55:08.421 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-01 11:55:08.421 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-01 11:55:08.421 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-01 11:55:08.421 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-01 11:55:08.421 [info] Experiment 'pythonTestAdapter' is active
+2024-07-01 11:55:08.447 [info] Default formatter is set to null for workspace /home/sciencerz/.config/neofetch
+2024-07-01 11:55:08.457 [info] Python interpreter path: /bin/python3
+2024-07-01 11:55:08.487 [info] > pyenv which python
+2024-07-01 11:55:08.487 [info] cwd: .
+2024-07-01 11:55:09.680 [info] Starting Pylance language server.
+2024-07-01 11:58:40.276 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 11:59:05.039 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 11:59:18.981 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 11:59:25.598 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 11:59:45.347 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 11:59:59.275 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:00:27.313 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:00:58.755 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:01:34.686 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:02:15.792 [info] CreateEnv Trigger - Skipping for /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:02:15.878 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:02:16.024 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:02:31.326 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:04:31.710 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:04:57.595 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:05:12.038 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:05:15.535 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:07:54.556 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:08:23.473 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:08:28.143 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:09:03.411 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:24:22.988 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:24:40.756 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:24:55.390 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:25:02.032 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:25:43.063 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:25:47.668 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:30:19.001 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:30:21.375 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:31:51.820 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:34:47.212 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:35:33.022 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:38:53.478 [info] Send text to terminal: /bin/python3 /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:38:53.620 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:40:54.199 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py
+2024-07-01 12:41:46.118 [info] Discover tests for workspace name: neofetch - uri: /home/sciencerz/.config/neofetch/neofetch.py

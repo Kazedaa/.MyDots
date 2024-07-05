@@ -1,0 +1,13 @@
+2024-07-01 23:35:53.954 [info] Extension host with pid 760173 started
+2024-07-01 23:35:53.954 [info] Skipping acquiring lock for /home/sciencerz/.config/Code/User/workspaceStorage/cf599596efb643ab558ce05e7835698a.
+2024-07-01 23:35:53.996 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-01 23:35:54.023 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-01 23:35:54.025 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-07-01 23:35:54.093 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-01 23:35:54.113 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-01 23:35:54.154 [info] Eager extensions activated
+2024-07-01 23:35:54.179 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 23:35:54.181 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 23:35:54.186 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-07-01 23:42:18.436 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-01 23:42:18.446 [info] Extension host with pid 760173 exiting with code 0
