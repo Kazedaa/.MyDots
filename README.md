@@ -9,6 +9,7 @@
   - the text in the lock screen has a slight tint matching on the wallpaper
 
   - PNG WALLPAPERS AND THUMBNAILS ONLY
+  - THE NAME OF THE WALLPAPER SHOULD MATCH WITH ITS CORRESPONDING NEOFETCH THUMBNAIL
 
 ## Demo
 ![Screenshot_01-Jul_23-51-21_2211](https://github.com/Kazedaa/.MyDots/assets/120291477/c8baa8cf-5230-4bbe-a0de-119931ba4845)
