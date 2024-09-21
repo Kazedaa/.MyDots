@@ -1,5 +1,5 @@
 # My Dot Files For HyprLand
-![Version-1.1.0](https://img.shields.io/badge/MyDots-1.1.0-red)
+![Version-1.1.0](https://img.shields.io/badge/MyDots-1.2-red)
 
 
 ## Version 1
@@ -13,71 +13,28 @@
   - PNG WALLPAPERS AND THUMBNAILS ONLY
   - THE NAME OF THE WALLPAPER SHOULD MATCH ITS CORRESPONDING NEOFETCH THUMBNAIL
 
-### Demo
-![Screenshot_01-Jul_23-51-21_2211](https://github.com/Kazedaa/.MyDots/assets/120291477/c8baa8cf-5230-4bbe-a0de-119931ba4845)
-
-![Screenshot_01-Jul_23-52-15_771](https://github.com/Kazedaa/.MyDots/assets/120291477/47768b49-ae5b-4972-86ce-9cc0e08419cc)
-
-![Screenshot_01-Jul_23-52-46_31189](https://github.com/Kazedaa/.MyDots/assets/120291477/c5a15c5a-e9e1-4b30-a0fe-9e99745b40ac)
-
-![Screenshot_01-Jul_23-53-19_4922](https://github.com/Kazedaa/.MyDots/assets/120291477/0d02b409-025b-4ef3-83dc-3f2991bdaa7e)
-
-![Screenshot_01-Jul_23-53-48_9375](https://github.com/Kazedaa/.MyDots/assets/120291477/3e88d1a3-4b0b-496b-9250-311509db2f48)
-
-![Screenshot_01-Jul_23-56-13_18138](https://github.com/Kazedaa/.MyDots/assets/120291477/baaccbf2-f9ae-4d36-bcce-1bd8ea335787)
-
-![Screenshot_05-Jul_21-29-36_1583](https://github.com/Kazedaa/.MyDots/assets/120291477/4a9f427c-627e-4599-b62b-09412b5b31f6)
-
-![Screenshot_05-Jul_21-30-03_32331](https://github.com/Kazedaa/.MyDots/assets/120291477/1807d86b-3363-4ff3-a7c1-ddb90a8fdb50)
-
-![Screenshot_05-Jul_21-30-18_29427](https://github.com/Kazedaa/.MyDots/assets/120291477/c40dddbd-4ec9-4be5-a19a-41b6de0cd284)
-
-
-## Version 1.1.0 
-
-### Features
   - Added Spotify
   - Added CAVA
   - Cava color scheme matches the wallpaper
   - Automatically update cava color when wallpaper changes
-    
+
 ### Demo
-![image](https://github.com/user-attachments/assets/cb9e9617-308c-40c0-9109-d474cfd7ef76)
+#### Desktop
+![image](https://github.com/user-attachments/assets/e9c7c1a7-e6f6-4b53-af09-732d5ac514a5)
 
-![image](https://github.com/user-attachments/assets/4c31bd3b-8caf-4a80-9c80-7b7b2af385b4)
+![Screenshot_21-Sep_21-37-32_7777](https://github.com/user-attachments/assets/e29e196c-2c06-4df1-a07b-f9a6f887d6c3)
 
-### SetUp
-1. **Check Dependencies**
-```bash
-  cava -v
-  pavucontrol -v
-```
-2. **Get Dependencies (Ignore if already installed)**
-```bash
-  sudo apt install cava
-  sudo apt install pulseaudio
-```
-3. **Create AudioSink for Spotify**
-```bash
-  pactl load-module module-null-sink sink_name=SpotifySink sink_properties=device.description="SpotifySink"
-```
-4. **Route Spotify to New Sink**
-   - Open PulseAudio Volume Control.
-    ```bash
-      pauvcontrol
-    ```
-   - Navigate to Playback.
-   - Open Spotify in the background and play something for pauvcontrol to recognise is.
-   - Change Spotify output to SpotifySink.
-5. **Configure CAVA Source**
-   - Set source in wallust template and make sure the wallust config has the spotify-cava template.
-```ini
-  [input]
-  method = pulse
-  source = SpotifySink.monitor
-```
-6. **Create Loopback from Sink to Default Output**
-```bash
-  pactl load-module module-loopback source=SpotifySink.monitor
-```
+![Screenshot_21-Sep_21-36-27_17257](https://github.com/user-attachments/assets/41633709-c053-45c2-aaa2-7303e5964c60)
 
+![Screenshot_21-Sep_21-35-30_9084](https://github.com/user-attachments/assets/e8eb90b2-60ea-4595-b3ae-3ebaf2fc8dc4)
+
+![Screenshot_21-Sep_21-34-41_2757](https://github.com/user-attachments/assets/c0a586de-3f90-43dc-a8b4-d9ad2c921eed)
+
+![Screenshot_21-Sep_21-33-20_28882](https://github.com/user-attachments/assets/e10dbfe6-a651-437e-b367-221b5f9bacad)
+
+#### Spotify Setup
+![Screenshot_21-Sep_21-46-13_10647](https://github.com/user-attachments/assets/b62882d5-c156-4705-a932-1e3367f6b96d)
+
+![Screenshot_21-Sep_21-46-38_14578](https://github.com/user-attachments/assets/7014c737-2069-4525-aa33-75da7a7a6693)
+
+![Screenshot_21-Sep_21-47-51_7076](https://github.com/user-attachments/assets/397d9660-e744-427e-9cee-e8149bfec4d4)
