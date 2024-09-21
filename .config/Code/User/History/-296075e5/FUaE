@@ -1,0 +1,93 @@
+/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+
+// ### DEFAULT Top -Laptop ### //
+[{
+"include": "~/.config/waybar/modules",
+"layer": "top",
+"exclusive": true,
+"passthrough": false,
+"position": "top",
+"spacing": 3,
+"fixed-center": true,
+"ipc": true,
+"margin-top": 3,
+"margin-left": 8,
+"margin-right": 8,
+
+"modules-left": [
+	"cpu",
+	"custom/separator#dot-line", 
+	"temperature",
+	"custom/separator#dot-line", 
+	"memory",
+	"custom/separator#dot-line",
+	"custom/weather",
+	"custom/separator#blank_3"
+	],
+
+"modules-center": [
+	"idle_inhibitor", 
+	"custom/separator#dot-line",
+	"clock",
+	"custom/separator#dot-line",
+	"custom/swaync"
+	], 
+"modules-right": [
+		"custom/separator#blank_3",	
+		"mpris",
+		"custom/separator#dot-line",
+		"pulseaudio",
+		"pulseaudio/slider",
+		"custom/separator#dot-line",
+		"backlight",
+		"backlight/slider",
+		"custom/separator#dot-line",
+		"pulseaudio#microphone",
+		"custom/separator#dot-line", 
+		"battery",
+		"custom/separator#dot-line",
+		"custom/power",
+		],
+	// Additional modules //
+	"pulseaudio/slider": {
+		"min": 0,
+		"max": 100,
+		"orientation": "horizontal"
+		
+	},
+
+	"backlight/slider": {
+		"min": 0,
+		"max": 100,
+		"orientation": "horizontal",
+		"device": "intel_backlight"
+	},
+},
+{
+	"include": "~/.config/waybar/modules",
+	"layer": "top",
+	"exclusive": true,
+	"passthrough": false,
+	"position": "bottom",
+	"spacing": 5,
+	"fixed-center": true,
+	"ipc": true,
+	"height": 0,
+	"margin-left": 8,
+	"margin-right": 8,
+	
+	"modules-left": [
+		"wlr/taskbar",
+		"custom/separator#blank_3"
+		],
+	
+	"modules-center": [
+		"hyprland/workspaces#roman", 
+		],
+	"modules-right": [
+		"network#speed",
+		"tray", 
+		"custom/separator#dot-line",
+		"bluetooth",
+	],
+}]

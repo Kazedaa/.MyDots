@@ -1,0 +1,37 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+[Global] Creating projects: []
+[Global] Preparing projects...
+[Global] Initializing projects...
+[Global] Initialized 0 projects
+[Info  - 12:09:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/waybar/configs/[BOT] Default Laptop',
+  normalPath: '/home/sciencerz/.config/waybar/configs/[BOT] Default Laptop'
+}
+[Info  - 12:10:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/waybar/configs/[BOT] Camellia',
+  normalPath: '/home/sciencerz/.config/waybar/configs/[BOT] Camellia'
+}
+[Info  - 12:11:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/waybar/configs/[TOP & BOT] SummitSplit',
+  normalPath: '/home/sciencerz/.config/waybar/configs/[TOP & BOT] SummitSplit'
+}
+[Info  - 12:18:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/waybar/configs/[TOP] Chrysanthemum',
+  normalPath: '/home/sciencerz/.config/waybar/configs/[TOP] Chrysanthemum'
+}
+[Info  - 12:18:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/waybar/configs/[TOP] Default Laptop',
+  normalPath: '/home/sciencerz/.config/waybar/configs/[TOP] Default Laptop'
+}
+[Info  - 12:19:35 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/waybar/configs/[TOP] Sleek',
+  normalPath: '/home/sciencerz/.config/waybar/configs/[TOP] Sleek'
+}
+[Info  - 12:19:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/waybar/configs/[TOP & BOT] SummitSplit',
+  normalPath: '/home/sciencerz/.config/waybar/configs/[TOP & BOT] SummitSplit'
+}

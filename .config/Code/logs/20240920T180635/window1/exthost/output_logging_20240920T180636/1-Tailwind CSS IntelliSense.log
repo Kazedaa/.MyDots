@@ -1,0 +1,1910 @@
+Locating server…
+Booting server...
+Checking if /home/sciencerz/.config/spicetify/Themes/text/user.css may be Tailwind-related…
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+[Global] Creating projects: []
+[Global] Preparing projects...
+[Global] Initializing projects...
+[Global] Initialized 0 projects
+[Info  - 6:06:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:56 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:06:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:20 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:21 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:07:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:24 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:26 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:10:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:12:24 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:13:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:13:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:13:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:14:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:21 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:15:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:17:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:17:35 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:17:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:19:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:20:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:20:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:20:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:21:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:22:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:22:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/color.ini',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/color.ini'
+}
+[Info  - 6:26:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:27:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:27:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:27:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:27:31 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:27:32 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:27:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:27:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:03 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:28:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:29:20 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:29:21 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:29:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:29:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:20 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:27 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:29 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:29 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:33 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:35 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:35 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:37 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:39 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:56 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:56 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:30:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:31:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:32:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:32:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:32:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:32:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:32:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:32:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:32:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:34:34 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:36:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:38:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:38:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:38:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:38:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:38:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:38:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:38:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:03 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:32 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:39:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:45:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:46:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:46:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:46:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:46:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:46:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:46:20 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:47:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:47:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:48:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:48:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:48:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:48:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:48:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:48:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:48:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:50:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:50:37 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:50:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:50:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:51:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:03 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:52:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:24 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:24 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:26 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:27 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:53:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:54:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:54:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:55:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:56:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:56:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:19 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:20 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:20 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:26 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:57:27 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:03 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:27 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:27 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:29 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:56 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:58:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:03 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 6:59:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:00:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:01:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:02:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:06:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:07:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:07:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:07:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:07:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:07:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:07:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:07:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:21 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:22 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:24 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:39 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:08:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:09:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:09:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:09:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:09:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:41 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:41 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:11:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:12:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:12:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:12:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:13 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:24 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:24 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:26 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:29 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:29 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:34 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:56 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:13:56 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:14:08 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:14:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:14:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:14:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:14:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:14:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:14:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:17 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:20 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:21 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:15:31 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:26 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:27 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:27 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:31 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:31 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:32 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:32 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:33 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:20:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:21:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:21:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:21:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:21:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:21:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:21:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}
+[Info  - 7:21:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css',
+  normalPath: '/home/sciencerz/.config/spicetify/Themes/text/user.css'
+}

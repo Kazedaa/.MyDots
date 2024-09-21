@@ -1,0 +1,7 @@
+2024-09-20 23:48:29.054 [info] update#setState idle
+2024-09-20 23:48:29.076 [error] getUnixShellEnvironment#errorChildProcess A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:48:29.128 [error] Unable to resolve your shell environment: A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:48:29.882 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment: A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:48:31.494 [error] resolving shell environment failed Unable to resolve your shell environment: A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:48:59.054 [info] update#setState checking for updates
+2024-09-20 23:48:59.177 [info] update#setState idle

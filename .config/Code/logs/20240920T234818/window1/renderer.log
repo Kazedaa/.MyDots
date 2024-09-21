@@ -1,0 +1,6 @@
+2024-09-20 23:48:20.576 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-09-20 23:48:20.674 [info] Started local extension host with pid 9498.
+2024-09-20 23:48:20.897 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-09-20 23:48:21.179 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-09-20 23:48:21.514 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-09-20 23:48:25.303 [info] [perf] Render performance baseline is 19ms

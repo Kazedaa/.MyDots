@@ -1,0 +1,9 @@
+2024-09-20 23:48:40.243 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-09-20 23:48:40.354 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2024-09-20 23:48:40.368 [info] read schema from vscode: vscode://schemas/launch
+2024-09-20 23:48:40.369 [info] read schema from vscode: vscode://schemas/token-styling
+2024-09-20 23:48:40.370 [info] read schema from vscode: vscode://schemas/textmate-colors
+2024-09-20 23:48:40.371 [info] read schema from vscode: vscode://schemas/workbench-colors
+2024-09-20 23:48:40.430 [info] schema change detected vscode://schemas/settings/folder
+2024-09-20 23:48:40.478 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-09-20 23:48:40.753 [info] schema change detected vscode://schemas/settings/folder

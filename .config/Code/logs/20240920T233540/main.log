@@ -1,0 +1,9 @@
+2024-09-20 23:35:41.121 [info] update#setState idle
+2024-09-20 23:35:41.144 [error] getUnixShellEnvironment#errorChildProcess A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:35:41.186 [error] Unable to resolve your shell environment: A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:35:42.901 [error] resolving shell environment failed Unable to resolve your shell environment: A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:35:43.103 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment: A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:36:04.474 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment: A system error occurred (spawn /usr/bin/zsh ENOENT)
+2024-09-20 23:36:11.125 [info] update#setState checking for updates
+2024-09-20 23:36:11.240 [info] update#setState idle
+2024-09-20 23:48:15.917 [info] Extension host with pid 8784 exited with code: 0, signal: unknown.
