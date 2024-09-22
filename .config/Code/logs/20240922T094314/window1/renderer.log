@@ -1,0 +1,2 @@
+2024-09-22 09:43:14.819 [info] Started local extension host with pid 209209.
+2024-09-22 09:43:15.078 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

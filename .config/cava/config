@@ -142,14 +142,14 @@ source = Spotify_Sink.monitor
 gradient = 1
 
 gradient_count = 8
-gradient_color_1 = '#080117'
-gradient_color_2 = '#811AD1'
-gradient_color_3 = '#951EE6'
-gradient_color_4 = '#E8ABF2'
-gradient_color_5 = '#F3EBF4'
-gradient_color_6 = '#BE69E6'
-gradient_color_7 = '#E8ABF2'
-gradient_color_8 = '#F3EBF4'
+gradient_color_1 = '#090707'
+gradient_color_2 = '#733833'
+gradient_color_3 = '#8A4039'
+gradient_color_4 = '#DEA87D'
+gradient_color_5 = '#F6F2E4'
+gradient_color_6 = '#B47456'
+gradient_color_7 = '#DEA87D'
+gradient_color_8 = '#F6F2E4'
 
 [color]
 

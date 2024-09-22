@@ -125,7 +125,7 @@ fi
 # <<< SciencerZ HyprDots <<<
 
 # >>> SciencerZ Spotify >>>
-alias spotify='spicetify watch -q -s & cava -p ~/.config/cava/config'
+alias spotify='hyprctl dispatch layoutmsg preselect l && spicetify watch -q -s &  cava -p ~/.config/cava/config'
 # <<< SciencerZ Spotify <<<
 
 # >>> conda initialize >>>
